@@ -1,8 +1,3 @@
-// Daniel Shiffman
-// Neuro-Evolution Flappy Bird with TensorFlow.js
-// http://thecodingtrain.com
-// https://youtu.be/cdUNkwXx-I4
-
 //este archivo sirve para poder 
 //para esto pude haber usado ML5(is a wrap around tensorflow.js)
   //te permite trabajar con algoritmos de machine learning sin tener que manipular

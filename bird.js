@@ -1,8 +1,3 @@
-// Daniel Shiffman
-// Neuro-Evolution Flappy Bird with TensorFlow.js
-// http://thecodingtrain.com
-// https://youtu.be/cdUNkwXx-I4
-
 //aca es donde se crea la red neuronal
 //esta red es "de avance" o en ingles "feedforward"
 class Bird {

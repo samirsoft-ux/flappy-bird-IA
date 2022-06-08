@@ -1,6 +1,3 @@
-// Daniel Shiffman
-// Neuro-Evolution Flappy Bird
-
 function nextGeneration() {
   console.log('next generation');
   calculateFitness();
